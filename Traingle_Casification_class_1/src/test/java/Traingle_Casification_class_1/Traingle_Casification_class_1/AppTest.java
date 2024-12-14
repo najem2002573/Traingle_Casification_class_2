@@ -8,6 +8,18 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 import  org.junit.Test;
 
+/*
+ *		    שמות סטודנטים:
+ *		    נגים אלדין זועבי 324887983
+			אחמד זועבי       213027667
+
+ */
+
+
+
+
+
+
 public class AppTest {
 	
 	TriangleClassifier triangle = new TriangleClassifier();
